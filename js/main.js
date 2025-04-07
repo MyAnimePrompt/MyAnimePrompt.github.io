@@ -1,4 +1,4 @@
-// © 2025 MyAnimePrompt by Levent Özgür All rights reserved.
+// © 2025 MyAnimePrompt by Levent Özgür
 
 // Convert XML to markdown with recommendation prompt
 document.getElementById("convertBtn").addEventListener("click", function () {
