@@ -43,7 +43,7 @@ MyAnimePrompt is a free, web-based tool designed for anime enthusiasts. It trans
 
 ### **Technical Details**
 
-- **Privacy:** Your data is processed locally in your browser—your MAL export is never stored on our servers.
+- **Privacy:** Your data is processed locally in your browser—your MAL export is never stored on a server.
 - **Performance:** The conversion is rapid, ensuring you get your markdown prompt in seconds.
 - **Accessibility:** Optimized for both desktop and mobile use, making it easy to generate recommendations on the go.
 
@@ -59,7 +59,7 @@ MyAnimePrompt is a free, web-based tool designed for anime enthusiasts. It trans
 
 - A stable internet connection is required for seamless processing.
 
-*By Levent Özgür | [GitHub](https://github.com/levent1ozgur) | [Visit MyAnimePrompt](https://myanimeprompt.netlify.app/)*
+*By Levent Özgür | [GitHub](https://github.com/levent1ozgur) | [Visit MyAnimePrompt](https://myanimeprompt.github.io/)*
 
 ---
 
